@@ -49,3 +49,8 @@ or
 
 ## To test new sentences, put them in the array:
 ![image](https://user-images.githubusercontent.com/68453992/233736086-ba5eeaae-b757-46c5-90f4-b6874479b064.png)
+
+## Libraries
+  - sklearn
+  - matplotlib
+
